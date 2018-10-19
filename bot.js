@@ -196,6 +196,7 @@ if (message.content.startsWith(adminprefix + 'setT')) {
 });
 
 
+client.login("NTAyODY1MDAwODc3MjYwODE0.DquJKQ.I6ia-Xy64Fnv-8a-Dqoeevy0cNg");
 
 
 client.login(process.env.BOT_TOKEN);
